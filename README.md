@@ -32,5 +32,5 @@ namespace hello_WPF
     }
 }
 ```
-- _Ésta es la vista predeterminada de nuestro archivo C# en esta aplicación._
+- **_Ésta es la vista predeterminada de nuestro archivo C# en esta aplicación._**
 - _Éste es el vacío por ahora comenzaremos a agregar nuestras propias funciones._
