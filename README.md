@@ -35,6 +35,7 @@ namespace hello_WPF
 - **_Ésta es la solución predeterminada de nuestro archivo por C# en esta aplicación._**
 - **_Éste es la solución vacía por ahora ya que comenzaremos a agregar nuestras propias funciones._**
 - **_Lo primero que debemos hacer es volver al archivo XML y agregar algunas etiquetas rápidas._**
+
 <Windowx:Class="hello_WPF.MainWindow" 
 xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
 xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
