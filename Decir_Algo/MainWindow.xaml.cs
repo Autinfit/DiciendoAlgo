@@ -24,5 +24,12 @@ namespace Decir_Algo
         {
             InitializeComponent();
         }
+
+        private void Button_MouseDown(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Has cliqueado el botón!!!");
+            
+            // EN INSTANTES...
+        }
     }
 }
