@@ -54,6 +54,7 @@ Title="MainWindow" Background="Black" Height="350" Width="525">
 <TextBlock Name="hi" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="72" Foreground="Yellow">
 
 Hello, MARSFOREVER472!
+
 </TextBlock>
 </Grid>
 </Window>
