@@ -46,6 +46,7 @@ mc:Ignorable="d"
 Title="MainWindow" Background="Black" Height="350" Width="525">
 
 <Grid>
+
 <Button VerticalAlignment="Bottom" Height="20" Width="200" Content="Click ME" FontWeight="Bold" Click="Button_MouseDown">
 </Button>
 <TextBlock Name="hi" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="72" Foreground="Yellow">
