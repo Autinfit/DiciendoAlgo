@@ -9,7 +9,13 @@
     <Grid>
 
         <Button Name="button1" VerticalAlignment="Bottom" Height="20" Width="200" Content="Cliquéame!!!!!!" FontWeight="Bold" Click="Button_MouseDown">
-            
+
         </Button>
+
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="72" Foreground="Yellow">
+            
+            Hello MARS!!!!
+            
+        </TextBlock>
     </Grid>
 </Window>
