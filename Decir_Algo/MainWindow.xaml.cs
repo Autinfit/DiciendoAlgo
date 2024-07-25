@@ -28,8 +28,9 @@ namespace Decir_Algo
         private void Button_MouseDown(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Has cliqueado el botón!!!");
-            
-            // EN INSTANTES...
+            hi.Text = " HAS CLICKEADO!!!!";
+            hi.FontSize = 32; // TAMAÑO DE LA FUENTE PARA LOS TEXTOS ESCRITOS AQUÍ ANTERIORMENTE!!!!!
+                 
         }
     }
 }

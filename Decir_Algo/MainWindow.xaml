@@ -12,7 +12,7 @@
 
         </Button>
 
-        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="72" Foreground="Yellow">
+        <TextBlock Name="hi" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="72" Foreground="Yellow">
             
             Hello MARS!!!!
             
