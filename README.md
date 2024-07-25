@@ -70,6 +70,6 @@ Hello, MARSFOREVER472!
 ```
 - _Dentro de la etiqueta del botón, agregue la siguiente línea Click=”Button_MouseDown”._
   
-- Vea el ejemplo anterior. Esta etiqueta que agregamos aquí agregará un evento de clic al botón.
+- _Vea el ejemplo anterior. Esta etiqueta que agregamos aquí agregará un evento de clic al botón._
   
 - Después de haberlo escrito, puede hacer clic derecho sobre él y hacer clic en ir a la definición.
