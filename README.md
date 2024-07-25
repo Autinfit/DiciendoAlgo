@@ -68,7 +68,7 @@ Hello, MARSFOREVER472!
 
 </Window>
 ```
-- Dentro de la etiqueta del botón, agregue la siguiente línea Click=”Button_MouseDown”.
+- _Dentro de la etiqueta del botón, agregue la siguiente línea Click=”Button_MouseDown”._
   
 - Vea el ejemplo anterior. Esta etiqueta que agregamos aquí agregará un evento de clic al botón.
   
