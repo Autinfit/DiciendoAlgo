@@ -72,4 +72,4 @@ Hello, MARSFOREVER472!
   
 - _Vea el ejemplo anterior. Esta etiqueta que agregamos aquí agregará un evento de clic al botón._
   
-- Después de haberlo escrito, puede hacer clic derecho sobre él y hacer clic en ir a la definición.
+- _Después de haberlo escrito, puede hacer clic derecho sobre él y hacer clic en ir a la definición._
