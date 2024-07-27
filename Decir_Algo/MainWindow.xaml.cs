@@ -32,5 +32,17 @@ namespace Decir_Algo
             hi.FontSize = 32; // TAMAÑO DE LA FUENTE PARA LOS TEXTOS ESCRITOS AQUÍ ANTERIORMENTE!!!!!
                  
         }
+
+        // PARA MODIFICAR COLORES AL TEXTO...
+
+        private void cambiarColor(object sender, MouseEventArgs e)
+        {
+            hi.Foreground = Brushes.Yellow;
+        }
+
+        private void cambiarColorSegundaVez(object sender, MouseEventArgs e)
+        {
+            hi.Foreground = Brushes.Red;
+        }
     }
 }
