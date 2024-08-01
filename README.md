@@ -76,6 +76,6 @@ Hello, MARSFOREVER472!
 
 - **_Esto creará automáticamente un evento para esto en la ventana de C#._**
   
-- _Por ahora regrese y dentro de la etiqueta del bloque de texto agregue la siguiente etiqueta ```Name="hi"```._
+- **_Por ahora regrese y dentro de la etiqueta del bloque de texto agregue la siguiente etiqueta ```Name="hi"```._**
   
 - Vea el ejemplo anterior.
