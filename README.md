@@ -78,4 +78,4 @@ Hello, MARSFOREVER472!
   
 - **_Por ahora regrese y dentro de la etiqueta del bloque de texto agregue la siguiente etiqueta ```Name="hi"```._**
   
-- Vea el ejemplo anterior.
+- _Vea el ejemplo anterior._
