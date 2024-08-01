@@ -73,3 +73,4 @@ Hello, MARSFOREVER472!
 - **_Vea el ejemplo anterior. Esta etiqueta que agregamos aquí agregará un evento de clic al botón._**
   
 - **_Después de haberlo escrito, puede hacer clic derecho sobre él y hacer clic en ir a la definición._**
+- Esto creará automáticamente un evento para esto en la ventana de C#. Por ahora regrese y dentro de la etiqueta del bloque de texto agregue la siguiente etiqueta Nombre = "hola". Vea el ejemplo anterior.
